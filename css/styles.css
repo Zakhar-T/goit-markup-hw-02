@@ -99,7 +99,8 @@ a {
     background-color: #f4f4fd;
 }
 
-.team-title {
+.team-title,
+.portfolio-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -113,8 +114,7 @@ a {
     background: #fff;
 }
 
-.team-subtitle,
-.portfolio-subtitle {
+.team-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -130,12 +130,11 @@ a {
     text-align: center;
 }
 
-.portfolio-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
+.portfolio-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 
